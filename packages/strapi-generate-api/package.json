@@ -13,7 +13,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "pluralize": "^8.0.0",
     "strapi-utils": "3.6.1"
   },
